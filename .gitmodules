@@ -1,0 +1,3 @@
+[submodule "simple-private-submodule"]
+	path = simple-private-submodule
+	url = https://github.com/amirisback/simple-private-submodule
